@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace AbstractFactory
+{
+    class IronDoor : IDoor
+    {
+        public void getDescription()
+        {
+            System.Console.WriteLine("I am an iron door.");
+        }
+    }
+}

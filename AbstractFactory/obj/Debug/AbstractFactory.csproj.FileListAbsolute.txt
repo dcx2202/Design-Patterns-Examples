@@ -1,0 +1,7 @@
+C:\Users\Diogo\Documents\Universidade\Desenho e Implementacao de Software\DIS\Frequencia\GumballMachine\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\Diogo\Documents\Universidade\Desenho e Implementacao de Software\DIS\Frequencia\GumballMachine\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\Diogo\Documents\Universidade\Desenho e Implementacao de Software\DIS\Frequencia\GumballMachine\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\Diogo\Documents\Universidade\Desenho e Implementacao de Software\DIS\Frequencia\GumballMachine\AbstractFactory\obj\Debug\AbstractFactory.csprojAssemblyReference.cache
+C:\Users\Diogo\Documents\Universidade\Desenho e Implementacao de Software\DIS\Frequencia\GumballMachine\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\Documents\Universidade\Desenho e Implementacao de Software\DIS\Frequencia\GumballMachine\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\Diogo\Documents\Universidade\Desenho e Implementacao de Software\DIS\Frequencia\GumballMachine\AbstractFactory\obj\Debug\AbstractFactory.pdb
