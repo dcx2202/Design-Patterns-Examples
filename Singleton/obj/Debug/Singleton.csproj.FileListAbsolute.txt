@@ -1,0 +1,7 @@
+C:\Users\Diogo\Documents\Universidade\Desenho e Implementacao de Software\DIS\Frequencia\DesignPatternsExamples\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\Diogo\Documents\Universidade\Desenho e Implementacao de Software\DIS\Frequencia\DesignPatternsExamples\Singleton\bin\Debug\Singleton.exe
+C:\Users\Diogo\Documents\Universidade\Desenho e Implementacao de Software\DIS\Frequencia\DesignPatternsExamples\Singleton\bin\Debug\Singleton.pdb
+C:\Users\Diogo\Documents\Universidade\Desenho e Implementacao de Software\DIS\Frequencia\DesignPatternsExamples\Singleton\obj\Debug\Singleton.csprojAssemblyReference.cache
+C:\Users\Diogo\Documents\Universidade\Desenho e Implementacao de Software\DIS\Frequencia\DesignPatternsExamples\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\Documents\Universidade\Desenho e Implementacao de Software\DIS\Frequencia\DesignPatternsExamples\Singleton\obj\Debug\Singleton.exe
+C:\Users\Diogo\Documents\Universidade\Desenho e Implementacao de Software\DIS\Frequencia\DesignPatternsExamples\Singleton\obj\Debug\Singleton.pdb

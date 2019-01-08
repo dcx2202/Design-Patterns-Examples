@@ -1,0 +1,7 @@
+C:\Users\Diogo\Documents\Universidade\Desenho e Implementacao de Software\DIS\Frequencia\DesignPatternsExamples\BookShopMachine\bin\Debug\BookShopMachine.exe.config
+C:\Users\Diogo\Documents\Universidade\Desenho e Implementacao de Software\DIS\Frequencia\DesignPatternsExamples\BookShopMachine\bin\Debug\BookShopMachine.exe
+C:\Users\Diogo\Documents\Universidade\Desenho e Implementacao de Software\DIS\Frequencia\DesignPatternsExamples\BookShopMachine\bin\Debug\BookShopMachine.pdb
+C:\Users\Diogo\Documents\Universidade\Desenho e Implementacao de Software\DIS\Frequencia\DesignPatternsExamples\BookShopMachine\obj\Debug\BookShopMachine.csprojAssemblyReference.cache
+C:\Users\Diogo\Documents\Universidade\Desenho e Implementacao de Software\DIS\Frequencia\DesignPatternsExamples\BookShopMachine\obj\Debug\BookShopMachine.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\Documents\Universidade\Desenho e Implementacao de Software\DIS\Frequencia\DesignPatternsExamples\BookShopMachine\obj\Debug\BookShopMachine.exe
+C:\Users\Diogo\Documents\Universidade\Desenho e Implementacao de Software\DIS\Frequencia\DesignPatternsExamples\BookShopMachine\obj\Debug\BookShopMachine.pdb
