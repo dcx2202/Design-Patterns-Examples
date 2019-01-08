@@ -1,0 +1,7 @@
+C:\Users\Diogo\Documents\Universidade\Desenho e Implementacao de Software\DIS\Frequencia\GumballMachine\Memento\bin\Debug\Memento.exe.config
+C:\Users\Diogo\Documents\Universidade\Desenho e Implementacao de Software\DIS\Frequencia\GumballMachine\Memento\bin\Debug\Memento.exe
+C:\Users\Diogo\Documents\Universidade\Desenho e Implementacao de Software\DIS\Frequencia\GumballMachine\Memento\bin\Debug\Memento.pdb
+C:\Users\Diogo\Documents\Universidade\Desenho e Implementacao de Software\DIS\Frequencia\GumballMachine\Memento\obj\Debug\Memento.csprojAssemblyReference.cache
+C:\Users\Diogo\Documents\Universidade\Desenho e Implementacao de Software\DIS\Frequencia\GumballMachine\Memento\obj\Debug\Memento.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\Documents\Universidade\Desenho e Implementacao de Software\DIS\Frequencia\GumballMachine\Memento\obj\Debug\Memento.exe
+C:\Users\Diogo\Documents\Universidade\Desenho e Implementacao de Software\DIS\Frequencia\GumballMachine\Memento\obj\Debug\Memento.pdb

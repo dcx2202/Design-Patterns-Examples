@@ -1,0 +1,7 @@
+C:\Users\Diogo\Documents\Universidade\Desenho e Implementacao de Software\DIS\Frequencia\GumballMachine\FlyWeight\bin\Debug\FlyWeight.exe.config
+C:\Users\Diogo\Documents\Universidade\Desenho e Implementacao de Software\DIS\Frequencia\GumballMachine\FlyWeight\bin\Debug\FlyWeight.exe
+C:\Users\Diogo\Documents\Universidade\Desenho e Implementacao de Software\DIS\Frequencia\GumballMachine\FlyWeight\bin\Debug\FlyWeight.pdb
+C:\Users\Diogo\Documents\Universidade\Desenho e Implementacao de Software\DIS\Frequencia\GumballMachine\FlyWeight\obj\Debug\FlyWeight.csprojAssemblyReference.cache
+C:\Users\Diogo\Documents\Universidade\Desenho e Implementacao de Software\DIS\Frequencia\GumballMachine\FlyWeight\obj\Debug\FlyWeight.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\Documents\Universidade\Desenho e Implementacao de Software\DIS\Frequencia\GumballMachine\FlyWeight\obj\Debug\FlyWeight.exe
+C:\Users\Diogo\Documents\Universidade\Desenho e Implementacao de Software\DIS\Frequencia\GumballMachine\FlyWeight\obj\Debug\FlyWeight.pdb

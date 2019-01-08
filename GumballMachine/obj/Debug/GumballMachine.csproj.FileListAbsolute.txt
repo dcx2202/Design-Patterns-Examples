@@ -1,0 +1,7 @@
+C:\Users\Diogo\Documents\Universidade\Desenho e Implementacao de Software\DIS\Frequencia\GumballMachine\GumballMachine\bin\Debug\GumballMachine.exe.config
+C:\Users\Diogo\Documents\Universidade\Desenho e Implementacao de Software\DIS\Frequencia\GumballMachine\GumballMachine\bin\Debug\GumballMachine.exe
+C:\Users\Diogo\Documents\Universidade\Desenho e Implementacao de Software\DIS\Frequencia\GumballMachine\GumballMachine\bin\Debug\GumballMachine.pdb
+C:\Users\Diogo\Documents\Universidade\Desenho e Implementacao de Software\DIS\Frequencia\GumballMachine\GumballMachine\obj\Debug\GumballMachine.csprojAssemblyReference.cache
+C:\Users\Diogo\Documents\Universidade\Desenho e Implementacao de Software\DIS\Frequencia\GumballMachine\GumballMachine\obj\Debug\GumballMachine.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\Documents\Universidade\Desenho e Implementacao de Software\DIS\Frequencia\GumballMachine\GumballMachine\obj\Debug\GumballMachine.exe
+C:\Users\Diogo\Documents\Universidade\Desenho e Implementacao de Software\DIS\Frequencia\GumballMachine\GumballMachine\obj\Debug\GumballMachine.pdb

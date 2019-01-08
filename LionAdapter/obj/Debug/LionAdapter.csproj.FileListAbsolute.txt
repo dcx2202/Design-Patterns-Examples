@@ -1,0 +1,7 @@
+C:\Users\Diogo\Documents\Universidade\Desenho e Implementacao de Software\DIS\Frequencia\GumballMachine\LionAdapter\obj\Debug\LionAdapter.csprojAssemblyReference.cache
+C:\Users\Diogo\Documents\Universidade\Desenho e Implementacao de Software\DIS\Frequencia\GumballMachine\LionAdapter\obj\Debug\LionAdapter.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\Documents\Universidade\Desenho e Implementacao de Software\DIS\Frequencia\GumballMachine\LionAdapter\bin\Debug\LionAdapter.exe.config
+C:\Users\Diogo\Documents\Universidade\Desenho e Implementacao de Software\DIS\Frequencia\GumballMachine\LionAdapter\bin\Debug\LionAdapter.exe
+C:\Users\Diogo\Documents\Universidade\Desenho e Implementacao de Software\DIS\Frequencia\GumballMachine\LionAdapter\bin\Debug\LionAdapter.pdb
+C:\Users\Diogo\Documents\Universidade\Desenho e Implementacao de Software\DIS\Frequencia\GumballMachine\LionAdapter\obj\Debug\LionAdapter.exe
+C:\Users\Diogo\Documents\Universidade\Desenho e Implementacao de Software\DIS\Frequencia\GumballMachine\LionAdapter\obj\Debug\LionAdapter.pdb
